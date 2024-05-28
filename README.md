@@ -51,31 +51,31 @@ Welcome to my <sup>GitHub profile!</sup> I'm Rafshan Rakeeb, an undergraduate st
 
 
 ### 🛠️ Skills
-**Programming Languages:** Java, C/C++, Python, C#, PHP, JavaScript
-**Web Development:** HTML, CSS, React, Node.js, .NET
-**Technologies:** Machine Learning, VHDL, Xilinx Vivado, MySQL
+- **Programming Languages:** Java, C/C++, Python, C#, PHP, JavaScript
+- **Web Development:** HTML, CSS, React, Node.js, .NET
+- **Technologies:** Machine Learning, VHDL, Xilinx Vivado, MySQL
 
 ### 📚 Education
-**University of Moratuwa:** Undergraduate in Computer Science & Engineering (GPA: 3.66)
-**Advanced Level Examination:** 3 A's in Physical Science Stream, District Rank 06
-**Ordinary Level Examination:** 7 A's out of 9 subjects
+- **University of Moratuwa:** Undergraduate in Computer Science & Engineering (GPA: 3.66)
+- **Advanced Level Examination:** 3 A's in Physical Science Stream, District Rank 06
+- **Ordinary Level Examination:** 7 A's out of 9 subjects
 
 ### 📝 Projects
-Nanoprocessor Design: Developed a 4-bit nanoprocessor on the Basys3 board using VHDL and Xilinx Vivado.
-Online Banking System: Created an online banking system using React, Node.js, CSS, HTML, and MySQL.
+- Nanoprocessor Design: Developed a 4-bit nanoprocessor on the Basys3 board using VHDL and Xilinx Vivado.
+- Online Banking System: Created an online banking system using React, Node.js, CSS, HTML, and MySQL.
 
 ### 🎓 Teaching Experience
-Muslim Mathiya Maha Vidiyalayam: Taught A/L Physical Science students.
-AL Muneer Vidiyalayam: Taught O/L students.
-Maths Seminar at Kegalle: Conducted a three-day seminar for O/L students.
+- Muslim Mathiya Maha Vidiyalayam: Taught A/L Physical Science students.
+- AL Muneer Vidiyalayam: Taught O/L students.
+- Maths Seminar at Kegalle: Conducted a three-day seminar for O/L students.
 
 ### 🎮 Interests
-**Technology:** AI, Quantum Theory, Cyber Security, Data Science
-**Personal:** Tamil literature, public speaking, religious studies, sports (table tennis, badminton, chess, cricket)
+- **Technology:** AI, Quantum Theory, Cyber Security, Data Science
+- **Personal:** Tamil literature, public speaking, religious studies, sports (table tennis, badminton, chess, cricket)
 
 
 
-- Feel free to explore my repositories :+1: and connect with me if you find my work interesting. ~~~I'm always open to new opportunities and collaborations.~~~
+- Feel free to explore my repositories :+1: and connect with me if you find my work interesting[^2].  ~~~ I'm always open to new opportunities and collaborations. ~~~
 
 >[!NOTE]
 >Coding is like humor. If you have to explain it, it’s probably bad.
