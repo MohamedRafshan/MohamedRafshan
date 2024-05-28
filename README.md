@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Hi there 👋
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/file/d/1vau6hw53rukteMumauPZTiAs30VjrBGa/view?usp=sharing">
+ <source media="(prefers-color-scheme: dark)" srcset="(https://github.com/MohamedRafshan/MohamedRafshan/blob/main/Readme.jpg)">
  <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/file/d/1ZmF5dK5Rknj3bg8ykp6V7L_yUa0_hQzW/view?usp=sharing">
  <img alt="Here is Rafshan" src="YOUR-DEFAULT-IMAGE">
 </picture>
