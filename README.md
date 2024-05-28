@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ## Hi there 👋
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="[Rafshan](https://drive.google.com/file/d/1vau6hw53rukteMumauPZTiAs30VjrBGa/view?usp=sharing)">
- <source media="(prefers-color-scheme: light)" srcset="[Rafshan](https://drive.google.com/file/d/1ZmF5dK5Rknj3bg8ykp6V7L_yUa0_hQzW/view?usp=sharing)">
+ <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/file/d/1vau6hw53rukteMumauPZTiAs30VjrBGa/view?usp=sharing">
+ <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/file/d/1ZmF5dK5Rknj3bg8ykp6V7L_yUa0_hQzW/view?usp=sharing">
  <img alt="Here is Rafshan" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
@@ -30,7 +30,7 @@ Welcome to my <sup>GitHub profile!</sup> I'm Rafshan Rakeeb, an undergraduate st
 + 👯 I’m looking to collaborate on: Open-source projects and innovative tech solutions.
 + 🤔 I’m looking for help with: Enhancing my knowledge in AI and data science.
 + 💬 Ask me about: Programming, web development, and teaching methodologies.
-+ 📫 How to reach me: rakeeb.21@cse.mrt.ac.lk
++ 📫 How to reach me: [Mail](rakeebrafshan4@gmil.com)
 + 😄 Pronouns: He/Him
 + ⚡ Fun fact: I’m a provincial level table tennis and badminton player, and I enjoy reading Tamil literature.
 
@@ -74,19 +74,20 @@ Maths Seminar at Kegalle: Conducted a three-day seminar for O/L students.
 **Personal:** Tamil literature, public speaking, religious studies, sports (table tennis, badminton, chess, cricket)
 
 
-Feel free to explore my repositories :+1: and connect with me if you find my work interesting. ~~~I'm always open to new opportunities and collaborations.~~~
 
-[!NOTE]
-Coding is like humor. If you have to explain it, it’s probably bad.
+- Feel free to explore my repositories :+1: and connect with me if you find my work interesting. ~~~I'm always open to new opportunities and collaborations.~~~
 
-[!TIP]
-Remember, "Hello, World!" is not just a phrase, it's a lifestyle.
+>[!NOTE]
+>Coding is like humor. If you have to explain it, it’s probably bad.
 
-[!IMPORTANT]
-There are 10 types of people in the world: Those who understand binary and those who don’t.
+>[!TIP]
+>Remember, "Hello, World!" is not just a phrase, it's a lifestyle.
 
-[!WARNING]
-Debugging: Removing the needles from the haystack. Coding: Adding new needles to the haystack.
+>[!IMPORTANT]
+>There are 10 types of people in the world: Those who understand binary and those who don’t.
 
-[!CAUTION]
-Beware of code that compiles on the first run. It likely hides some evil trickery.
+>[!WARNING]
+>Debugging: Removing the needles from the haystack. Coding: Adding new needles to the haystack.
+
+>[!CAUTION]
+>Beware of code that compiles on the first run. It likely hides some evil trickery.
