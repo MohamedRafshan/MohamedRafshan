@@ -73,12 +73,12 @@ Welcome to my <sup>GitHub profile!</sup> I'm Rafshan Rakeeb, an undergraduate st
 
 ### 🎮 Volunteer Work and Affiliations
 - Maths Society design team, University of Moratuwa
-- Majlish UL Islam ediding team, University of Moratuwa
+- Majlish UL Islam editing team, University of Moratuwa
 - Executive member Majlish Ul Islam, University of Moratuwa
 - Assistant Chief Editor | Majlis Ul Islam , University of Moratuwa
 - Project Coordinator UGEMS
 
-- Feel free to explore my repositories :+1: and connect with me if you find my work interesting[^2].  ~~~ I'm always open to new opportunities and collaborations. ~~~
+  Feel free to explore my repositories :+1: and connect with me if you find my work interesting[^2].  ~~~ I'm always open to new opportunities and collaborations. ~~~
 
 >[!NOTE]
 >Coding is like humor. If you have to explain it, it’s probably bad.
