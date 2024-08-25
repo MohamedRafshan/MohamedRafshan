@@ -1,4 +1,3 @@
-hi
 
 <!--
 **MohamedRafshan/MohamedRafshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,37 +42,41 @@ Welcome to my <sup>GitHub profile!</sup> I'm Rafshan Rakeeb, an undergraduate st
 |     2| Python    |
 |     3| SQL       |
 |     4| Java      |
-|     5| .NET      |
-|     6| React     |
+|     5| React     |
 
 
 </details>
 
 
 ### 🛠️ Skills
-- **Programming Languages:** Java, C/C++, Python, C#, PHP, JavaScript
-- **Web Development:** HTML, CSS, React, Node.js, .NET
-- **Technologies:** Machine Learning, VHDL, Xilinx Vivado, MySQL
+- **Programming Languages:**  C/C++, Python, JavaScript
+- **Web Development:** HTML, CSS, React, Node.js, Next.js, Express
+- **Technologies:** VHDL, Xilinx Vivado, MySQL, MongoDB
 
 ### 📚 Education
-- **University of Moratuwa:** Undergraduate in Computer Science & Engineering (GPA: 3.66)
+- **University of Moratuwa:** Undergraduate in Computer Science & Engineering
 - **Advanced Level Examination:** 3 A's in Physical Science Stream, District Rank 06
 - **Ordinary Level Examination:** 7 A's out of 9 subjects
 
 ### 📝 Projects
 - Nanoprocessor Design: Developed a 4-bit nanoprocessor on the Basys3 board using VHDL and Xilinx Vivado.
-- Online Banking System: Created an online banking system using React, Node.js, CSS, HTML, and MySQL.
+- Employee Management System: Created an online banking system using React, Node.js, CSS, HTML, and MySQL.
 
 ### 🎓 Teaching Experience
-- Muslim Mathiya Maha Vidiyalayam: Taught A/L Physical Science students.
+- Muslim Mathiya Maha Vidiyalayam: Taught A/L Physical Science students. (Physics, Maths, Chemistry )
 - AL Muneer Vidiyalayam: Taught O/L students.
 - Maths Seminar at Kegalle: Conducted a three-day seminar for O/L students.
 
 ### 🎮 Interests
-- **Technology:** AI, Quantum Theory, Cyber Security, Data Science
-- **Personal:** Tamil literature, public speaking, religious studies, sports (table tennis, badminton, chess, cricket)
+- **Technology:** AI, Quantum Theory, Cyber Security
+- **Personal:** Tamil literature, public speaking, religious studies, sports (table tennis, badminton, chess, cricket), Team Mamgement 
 
-
+### 🎮 Volunteer Work and Affiliations
+- Maths Society design team, University of Moratuwa
+- Majlish UL Islam ediding team, University of Moratuwa
+- Executive member Majlish Ul Islam, University of Moratuwa
+- Assistant Chief Editor | Majlis Ul Islam , University of Moratuwa
+- Project Coordinator UGEMS
 
 - Feel free to explore my repositories :+1: and connect with me if you find my work interesting[^2].  ~~~ I'm always open to new opportunities and collaborations. ~~~
 
