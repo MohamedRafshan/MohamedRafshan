@@ -94,3 +94,8 @@ Welcome to my <sup>GitHub profile!</sup> I'm Rafshan Rakeeb, an undergraduate st
 
 >[!CAUTION]
 >Beware of code that compiles on the first run. It likely hides some evil trickery.
+
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohamedRafshan&theme=synthwave&hide_border=false)
