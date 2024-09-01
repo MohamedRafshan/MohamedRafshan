@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MohamedRafshan/MohamedRafshan/blob/main/Readme.jpg">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MohamedRafshan/MohamedRafshan/blob/main/Readme.jpg">
- <img alt="Here is Rafshan" src="YOUR-DEFAULT-IMAGE" width="150">
+ <img alt="Here is Rafshan" src="YOUR-DEFAULT-IMAGE" width="350">
 </picture>
 
 
