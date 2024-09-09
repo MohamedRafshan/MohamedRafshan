@@ -24,15 +24,6 @@ Here are some ideas to get you started:
 
 Welcome to my <sup>GitHub profile!</sup> I'm Rafshan Rakeeb, an undergraduate student specializing in Computer Science & Engineering at the University of Moratuwa. I have a passion for technology, coding, and teaching. <sub> Here’s a bit more about me: </sub>
 
-+ 🔭 I’m currently working on: Various projects involving web development and machine learning.
-+ 🌱 I’m currently learning: Advanced algorithms, quantum computing, and cyber security.
-+ 👯 I’m looking to collaborate on: Open-source projects and innovative tech solutions.
-+ 🤔 I’m looking for help with: Enhancing my knowledge in AI and data science.
-+ 💬 Ask me about: Programming, web development, and teaching methodologies.
-+ 📫 How to reach me: [Mail](rakeebrafshan4@gmil.com)
-+ 😄 Pronouns: He/Him
-+ ⚡ Fun fact: I’m a provincial level table tennis and badminton player, and I enjoy reading Tamil literature.
-
 <details>
 <summary>My top languages</summary>
 
@@ -47,36 +38,14 @@ Welcome to my <sup>GitHub profile!</sup> I'm Rafshan Rakeeb, an undergraduate st
 
 </details>
 
-
-### 🛠️ Skills
-- **Programming Languages:**  C/C++, Python, JavaScript
-- **Web Development:** HTML, CSS, React, Node.js, Next.js, Express
-- **Technologies:** VHDL, Xilinx Vivado, MySQL, MongoDB
-
 ### 📚 Education
 - **University of Moratuwa:** Undergraduate in Computer Science & Engineering
-- **Advanced Level Examination:** 3 A's in Physical Science Stream, District Rank 06
-- **Ordinary Level Examination:** 7 A's out of 9 subjects
-
-### 📝 Projects
-- Nanoprocessor Design: Developed a 4-bit nanoprocessor on the Basys3 board using VHDL and Xilinx Vivado.
-- Employee Management System: Created an online banking system using React, Node.js, CSS, HTML, and MySQL.
-
-### 🎓 Teaching Experience
-- Muslim Mathiya Maha Vidiyalayam: Taught A/L Physical Science students. (Physics, Maths, Chemistry )
-- AL Muneer Vidiyalayam: Taught O/L students.
-- Maths Seminar at Kegalle: Conducted a three-day seminar for O/L students.
+- **Advanced Level Examination:** Physical Science Stream
+- **Ordinary Level Examination:** OL's
 
 ### 🎮 Interests
 - **Technology:** AI, Quantum Theory, Cyber Security
 - **Personal:** Tamil literature, public speaking, religious studies, sports (table tennis, badminton, chess, cricket), Team Mamgement 
-
-### 🎮 Volunteer Work and Affiliations
-- Maths Society design team, University of Moratuwa
-- Majlish UL Islam editing team, University of Moratuwa
-- Executive member Majlish Ul Islam, University of Moratuwa
-- Assistant Chief Editor | Majlis Ul Islam , University of Moratuwa
-- Project Coordinator UGEMS
 
   Feel free to explore my repositories :+1: and connect with me if you find my work interesting[^2].  ~~~ I'm always open to new opportunities and collaborations. ~~~
 
