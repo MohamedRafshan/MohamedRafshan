@@ -1,4 +1,4 @@
-(https://komarev.com/ghpvc/?username=MohamedRafshan)
+![](https://komarev.com/ghpvc/?username=MohamedRafshan)
 <!--
 **MohamedRafshan/MohamedRafshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
