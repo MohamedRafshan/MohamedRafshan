@@ -55,6 +55,14 @@ Welcome to my <sup>GitHub profile!</sup> I'm Rafshan Rakeeb, an undergraduate st
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" alt="CSS">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="50" alt="Next.js">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" alt="Express">
-    
+</div>
+
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> Web Development and Testing Tools
+<div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original-wordmark.svg" width="50" alt="Selenium">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="50" alt="Jest">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" width="50" alt="Jira">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jmeter/jmeter-original-wordmark.svg" width="50" alt="JMeter">
 </div>
 
