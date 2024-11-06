@@ -121,7 +121,7 @@ console.log(rafshan.toString());
 </div>
 
 ## 📫 How to Reach Me
-- **LinkedIn**: [Rafshan Rakeeb]([[https://www.linkedin.com/in/rafsanrakeeb](https://www.linkedin.com/in/rafshan-rakeeb-9aa360250/)](https://www.linkedin.com/in/rafshan-rakeeb-9aa360250/))
+- **LinkedIn**: [Rafshan Rakeeb](https://www.linkedin.com/in/rafshan-rakeeb-9aa360250/)
 - **Email**: [rafshanrakeeb4@gmail.com](mailto:rafshanrakeeb4@gmail.com)
 
 ---
