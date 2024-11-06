@@ -17,13 +17,34 @@ Here are some ideas to get you started:
 
 Welcome to my <sup>GitHub profile!</sup> I'm Rafshan Rakeeb, an undergraduate student specializing in Computer Science & Engineering at the University of Moratuwa. I have a passion for technology, coding, and teaching. <sub> Here’s a bit more about me: </sub>
 
+![](https://komarev.com/ghpvc/?username=MohamedRafshan)
+
+<!--
+**MohamedRafshan/MohamedRafshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+## Hi there 👋
+
+Welcome to my <sup>GitHub profile!</sup> I'm Rafshan Rakeeb, an undergraduate student specializing in Computer Science & Engineering at the University of Moratuwa. I have a passion for technology, coding, and teaching. <sub> Here’s a bit more about me: </sub>
+
+```javascript
 class Iam {
     constructor() {
         this.username = 'mohamedRafshan';
         this.location = 'Ampara, Sri Lanka';
         this.currentEducation = {
             institutes: [ "University of Moratuwa"],
-            majors: ["Software Engineering", "Computer Science and Engineering", "Web Devlopment"]
+            majors: ["Software Engineering", "Computer Science and Engineering", "Web Development"]
         };
         this.currentlyLearning = {
             1: "Java",
@@ -31,23 +52,26 @@ class Iam {
         };
         this.funFact = "Love for Adventure Sports 🏄‍♂️!";
         this.hobbies = [
-            'Bike Ride'
-            'Cricket'
+            'Bike Ride',
+            'Cricket',
             'Chilling 😎',
             'Coding 💻',
             'Sci-Fi Movies 🎥'
         ];
     }
+
     getCity() {
         return "Ampara, Sri Lanka";
     }
+
     ambitions() {
         return [
             "Become an Engineer",
-            "Do New Thinks",
-            "Enjoy The Life"
+            "Do New Things",
+            "Enjoy Life"
         ];
     }
+
     toString() {
         let profile = `
         Username: ${this.username}
@@ -80,6 +104,7 @@ class Iam {
 
 const rafshan = new Iam();
 console.log(rafshan.toString());
+```
 
 
 >[!NOTE]
