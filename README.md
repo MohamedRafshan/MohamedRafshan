@@ -17,6 +17,71 @@ Here are some ideas to get you started:
 
 Welcome to my <sup>GitHub profile!</sup> I'm Rafshan Rakeeb, an undergraduate student specializing in Computer Science & Engineering at the University of Moratuwa. I have a passion for technology, coding, and teaching. <sub> Here’s a bit more about me: </sub>
 
+class Iam {
+    constructor() {
+        this.username = 'mohamedRafshan';
+        this.location = 'Ampara, Sri Lanka';
+        this.currentEducation = {
+            institutes: [ "University of Moratuwa"],
+            majors: ["Software Engineering", "Computer Science and Engineering", "Web Devlopment"]
+        };
+        this.currentlyLearning = {
+            1: "Java",
+            2: "React Native",
+        };
+        this.funFact = "Love for Adventure Sports 🏄‍♂️!";
+        this.hobbies = [
+            'Bike Ride'
+            'Cricket'
+            'Chilling 😎',
+            'Coding 💻',
+            'Sci-Fi Movies 🎥'
+        ];
+    }
+    getCity() {
+        return "Ampara, Sri Lanka";
+    }
+    ambitions() {
+        return [
+            "Become an Engineer",
+            "Do New Thinks",
+            "Enjoy The Life"
+        ];
+    }
+    toString() {
+        let profile = `
+        Username: ${this.username}
+        Location: ${this.location}
+        Education:
+        - Institutes: ${this.currentEducation.institutes.join(", ")}
+        - Majors: ${this.currentEducation.majors.join(", ")}
+        Currently Learning:
+        `;
+        for (const key in this.currentlyLearning) {
+            profile += `  ${key}. ${this.currentlyLearning[key]}\n`;
+        }
+        profile += `
+        Fun Fact: ${this.funFact}
+        Hobbies:
+        `;
+        this.hobbies.forEach(hobby => {
+            profile += `  - ${hobby}\n`;
+        });
+        profile += `
+        City: ${this.getCity()}
+        Ambitions:
+        `;
+        this.ambitions().forEach(ambition => {
+            profile += `  - ${ambition}\n`;
+        });
+        return profile;
+    }
+}
+
+const rafshan = new Iam();
+console.log(rafshan.toString());
+
+
 >[!NOTE]
 >Coding is like humor. If you have to explain it, it’s probably bad.
 
@@ -63,12 +128,6 @@ Welcome to my <sup>GitHub profile!</sup> I'm Rafshan Rakeeb, an undergraduate st
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="50" alt="Jest">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" width="50" alt="Jira">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50" alt="Selenium">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jmeter/jmeter-original.svg" width="50" alt="JMeter">
-    <img src="https://jmeter.apache.org/images/logo.svg" width="50" alt="JMeter">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jmeter/jmeter-original.png" width="50" alt="JMeter">
-
-
-
-
+    <img src="https://jmeter.apache.org/images/logo.svg" width="50" alt="JMeter" width="50" alt="JMeter">
 </div>
 
