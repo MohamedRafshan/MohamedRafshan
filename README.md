@@ -65,6 +65,8 @@ Welcome to my <sup>GitHub profile!</sup> I'm Rafshan Rakeeb, an undergraduate st
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50" alt="Selenium">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jmeter/jmeter-original.svg" width="50" alt="JMeter">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jmeter/jmeter-original.svg" width="50" alt="JMeter">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jmeter/jmeter-original.png" width="50" alt="JMeter">
+
 
 
 
