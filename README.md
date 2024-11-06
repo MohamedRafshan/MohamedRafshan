@@ -46,13 +46,15 @@ Welcome to my <sup>GitHub profile!</sup> I'm Rafshan Rakeeb, an undergraduate st
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/node.svg" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/postman.svg" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/streamlit.svg" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mongodb.svg" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql.svg" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" width="50">
     <img src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" width="50">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Heroku.svg" width="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" alt="React Native">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" alt="HTML">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" alt="CSS">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="50" alt="Next.js">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" alt="Express">
     
 </div>
 
