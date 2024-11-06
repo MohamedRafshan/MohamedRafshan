@@ -87,23 +87,6 @@ const rafshan = new Iam();
 console.log(rafshan.toString());
 ```
 
-
->[!NOTE]
->Coding is like humor. If you have to explain it, it’s probably bad.
-
->[!TIP]
->Remember, "Hello, World!" is not just a phrase, it's a lifestyle.
-
->[!IMPORTANT]
->There are 10 types of people in the world: Those who understand binary and those who don’t.
-
->[!WARNING]
->Debugging: Removing the needles from the haystack. Coding: Adding new needles to the haystack.
-
->[!CAUTION]
->Beware of code that compiles on the first run. It likely hides some evil trickery.
-
-
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=mohamedRafshan&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedRafshan&theme=blueberry_duo"/>
 |---|---|
@@ -135,16 +118,29 @@ console.log(rafshan.toString());
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" width="50" alt="Jira">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50" alt="Selenium">
     <img src="https://jmeter.apache.org/images/logo.svg" width="50" alt="JMeter">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jmeter/jmeter-original.svg" width="50" alt="JMeter"> </div>
 </div>
 
 ## 📫 How to Reach Me
-- **LinkedIn**: [Rafshan Rakeeb]([https://www.linkedin.com/in/rafsanrakeeb](https://www.linkedin.com/in/rafshan-rakeeb-9aa360250/))
-- **Email**: [rafsanrakeeb4@gmail.com](mailto:rafsanrakeeb4@gmail.com)
+- **LinkedIn**: [Rafshan Rakeeb]([[https://www.linkedin.com/in/rafsanrakeeb](https://www.linkedin.com/in/rafshan-rakeeb-9aa360250/)](https://www.linkedin.com/in/rafshan-rakeeb-9aa360250/))
+- **Email**: [rafshanrakeeb4@gmail.com](mailto:rafshanrakeeb4@gmail.com)
 
 ---
 
 ## ⚡ Fun Fact:
 Coding is like building a new world! When you're stuck in a bug, it's like solving a puzzle, and when it works — it's pure magic! ✨
 
+>[!NOTE]
+>Coding is like humor. If you have to explain it, it’s probably bad.
+
+>[!TIP]
+>Remember, "Hello, World!" is not just a phrase, it's a lifestyle.
+
+>[!IMPORTANT]
+>There are 10 types of people in the world: Those who understand binary and those who don’t.
+
+>[!WARNING]
+>Debugging: Removing the needles from the haystack. Coding: Adding new needles to the haystack.
+
+>[!CAUTION]
+>Beware of code that compiles on the first run. It likely hides some evil trickery.
 
