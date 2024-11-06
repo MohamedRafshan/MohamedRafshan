@@ -14,13 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi there 👋
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MohamedRafshan/MohamedRafshan/blob/main/Readme.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/MohamedRafshan/MohamedRafshan/blob/main/Readme.jpg">
- <img alt="Here is Rafshan" src="YOUR-DEFAULT-IMAGE" width="350">
-</picture>
-
-
 
 Welcome to my <sup>GitHub profile!</sup> I'm Rafshan Rakeeb, an undergraduate student specializing in Computer Science & Engineering at the University of Moratuwa. I have a passion for technology, coding, and teaching. <sub> Here’s a bit more about me: </sub>
 
