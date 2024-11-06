@@ -118,6 +118,7 @@ console.log(rafshan.toString());
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" width="50" alt="Jira">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50" alt="Selenium">
     <img src="https://jmeter.apache.org/images/logo.svg" width="50" alt="JMeter">
+    <img src="https://jmeter.apache.org/images/favicon.png" width="50" alt="JMeter">
 </div>
 
 ## 📫 How to Reach Me
