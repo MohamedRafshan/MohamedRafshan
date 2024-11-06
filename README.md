@@ -135,5 +135,16 @@ console.log(rafshan.toString());
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" width="50" alt="Jira">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50" alt="Selenium">
     <img src="https://jmeter.apache.org/images/logo.svg" width="50" alt="JMeter">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jmeter/jmeter-original.svg" width="50" alt="JMeter"> </div>
 </div>
+
+## 📫 How to Reach Me
+- **LinkedIn**: [Rafshan Rakeeb]([https://www.linkedin.com/in/rafsanrakeeb](https://www.linkedin.com/in/rafshan-rakeeb-9aa360250/))
+- **Email**: [rafsanrakeeb4@gmail.com](mailto:rafsanrakeeb4@gmail.com)
+
+---
+
+## ⚡ Fun Fact:
+Coding is like building a new world! When you're stuck in a bug, it's like solving a puzzle, and when it works — it's pure magic! ✨
+
 
