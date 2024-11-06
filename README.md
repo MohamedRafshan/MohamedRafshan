@@ -88,7 +88,7 @@ console.log(rafshan.toString());
 ```
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=mohamedRafshan&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedRafshan&theme=blueberry_duo"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mohamedRafshan&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedRafshan&theme=blueberry_duo"/>
 |---|---|
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" /> Skills
