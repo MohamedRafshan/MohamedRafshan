@@ -91,6 +91,9 @@ console.log(rafshan.toString());
 <img src="https://github-readme-stats.vercel.app/api?username=mohamedRafshan&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedRafshan&theme=blueberry_duo"/>
 |---|---|
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedRafshan&theme=github_dark">|<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedRafshan&theme=dark&show_icons=true&locale=en&layout=compact" alt="mohamedrafsha" /></p> 
+|---|---|
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" /> Skills
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Languages
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,html,css)](https://skillicons.dev)
