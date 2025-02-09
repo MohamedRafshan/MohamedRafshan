@@ -95,30 +95,13 @@ console.log(rafshan.toString());
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Languages
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,html,css)](https://skillicons.dev)
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> Web Development
-<div>
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/node.svg" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/postman.svg" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mongodb.svg" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql.svg" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="50">
-    <img src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" width="50">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" alt="React Native">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" alt="HTML">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" alt="CSS">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="50" alt="Next.js">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" alt="Express">
-</div>
 
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> Testing Tools
-<div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="50" alt="Jest">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" width="50" alt="Jira">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50" alt="Selenium">
-    <img src="https://jmeter.apache.org/images/favicon.png" width="50" alt="JMeter">
-</div>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> My Toolbox
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,vite,java,c,cpp,cs,dotnet,visualstudio,androidstudio,git,github,linux,py,mysql,postman,vscode,jest,selenium,scss,docker,express,nodejs,materialui,aws,cypress,discord,eclipse,figma,maven,ps,postgres,prisma,powershell,pycharm,stackoverflow,ubuntu,windows)](https://skillicons.dev)
+
+
 
 ## 📫 How to Reach Me
 - **LinkedIn**: [Rafshan Rakeeb](https://www.linkedin.com/in/rafshan-rakeeb-9aa360250/)
