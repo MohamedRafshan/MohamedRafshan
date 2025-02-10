@@ -87,12 +87,17 @@ const rafshan = new Iam();
 console.log(rafshan.toString());
 ```
 
-# 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=mohamedRafshan&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedRafshan&theme=blueberry_duo"/>
-|---|---|
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedRafshan&theme=github_dark">|<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedRafshan&theme=dark&show_icons=true&locale=en&layout=compact" alt="mohamedrafsha" /></p> 
-|---|---|
+
+
+
+# 📊 GitHub Stats:
+| <p align="center">![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedRafshan&show_icons=true&count_private=true&theme=github_dark)</p> | <p align="center">![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamedRafshan&theme=blueberry_duo)</p> |
+| --- | --- |
+| <p align="center">![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohamedRafshan&theme=github_dark&utcOffset=8)</p> | <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedRafshan&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="mohamedrafsha" /></p> |
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedRafshan&theme=github_dark" width="100%" />
+</p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" /> Skills
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Languages
